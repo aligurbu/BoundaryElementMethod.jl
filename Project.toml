@@ -1,0 +1,13 @@
+name = "BoundaryElementMethod"
+uuid = "a463ac81-cfc8-42d9-8fdd-0bb759ef9c2d"
+authors = ["Ali Gurbuz"]
+version = "0.1.0"
+
+[compat]
+julia = "1.8"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
