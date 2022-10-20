@@ -3,6 +3,11 @@ uuid = "a463ac81-cfc8-42d9-8fdd-0bb759ef9c2d"
 authors = ["Ali Gurbuz"]
 version = "0.1.0"
 
+[deps]
+DrWatson = "634d3b9d-ee7a-5ddf-bec9-22491ea816e1"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+SafeTestsets = "1bc83da4-3b8d-516f-aca4-4fe02f6d838f"
+
 [compat]
 julia = "1.8"
 
